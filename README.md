@@ -48,6 +48,6 @@ Work as controllor for the ObjectBox database
 
 This program can't use the admin localhost, so restart your app and relaunch to see if it's work or not. If it's work, the data you've craeted on the apps would appear.
 
-** DEMONSTRATION **
+**DEMONSTRATION VIDEO**
 
 https://youtu.be/vbnTTEdJKWQ
