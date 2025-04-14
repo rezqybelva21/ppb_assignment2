@@ -32,7 +32,17 @@ dev_dependencies:
 
 `flutter pub run build_runner build`
 
-# App can be run! 🎉
+**App can be run! 🎉**
+
+# File explanation
+
+`car_model.dart`
+
+Use to represent an entity of a car in this program.
+
+`objectbox_helper.dart`
+
+Work as controllor for the ObjectBox database
 
 # Note
 
